@@ -1,8 +1,12 @@
 # Runner Stan 🎮
 A 2D chase game built using GameMaker Studio where the player must navigate a series of mazes while being chased by an enemy.
 
-## 🎮 Gameplay
-[Add screenshots or GIF here]
+## 🎮 Gameplay Images
+![Title-Screen](image/title-screen.png)
+![Maze 1](image/1.png)
+![Maze 2](image/2.png)
+![Maze 3](image/3.png)
+![Maze 4](image/4.png)
 
 ## ▶️ How to Play
 - Use WASD keys to move

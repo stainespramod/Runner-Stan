@@ -10,7 +10,7 @@ A 2D chase game built using GameMaker Studio where the player must navigate a se
 
 ## ▶️ How to Play
 - Use WASD keys to move
-- Avoid obstacles and outrun the enemy
+- Navigate your way through the maze while avoiding the enemy
 - Reach the end to move on to the next level
 
 ## 🔗 Play the Game (on Opera GX browser)

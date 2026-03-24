@@ -13,5 +13,6 @@ A 2D game built using GameMaker Studio where the player must navigate a series o
 - Navigate your way through the maze while avoiding the enemy
 - Reach the end to move on to the next level
 
-## 🔗 Play the Game (on Opera GX browser)
+## 🔗 Play the Game
 [Play Runner Stan](https://gx.games/games/icr0uo/cs1101-runner-stan/tracks/d15451b5-e752-4fad-a8aa-2655f9c2fddd/)
+(Try Chrome if it asks you to install Opera GX in Safari.)
